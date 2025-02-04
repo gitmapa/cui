@@ -16,6 +16,9 @@ Contiene el desarrollo en sí
 ### Carpeta documentosa
 Contiene los documentos del proyecto
 
+### Normalización
+Cuando en el proyecto se mencione la normalización se hace referencia a los scripts del repositorio GEOCABA
+
 ### Wiki
 En la wiki estará el diseño de la base con los scripts de creación de la BBDD y el DER. También tendrá la documentación del desarrollo. En "Ojo" pondremos aquello en lo que hay que prestar atención tanto para la consolidación de la base como para el desarrollo.
 
