@@ -13,7 +13,7 @@ Schema: cuis
 ### Carpeta cuis
 Contiene el desarrollo en sí
 
-### Carpeta documentosa
+### Carpeta documentos
 Contiene los documentos del proyecto
 
 ### Normalización
